@@ -4,6 +4,7 @@ describe("Qtify Automation", () => {
       // cy.visit("https://example.com/");
     });
     describe("Songs test", () => {
+      before(() => cy.stubApiCalls());
       it("should match the count of song cards with their respective API responses", () => {
         // Check songs
         cy.wait("@getSongs").then((interception) => {
