@@ -303,14 +303,3 @@ describe("Qtify Automation", () => {
       });
     });
   });
-  
-
-
-describe("Qtify Automation", () => {
-    beforeEach(() => {
-      cy.visit("https://example.com/");
-      // cy.visit("https://example.com/");
-    });
-    
-  });
-  
