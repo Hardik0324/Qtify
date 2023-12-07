@@ -1,0 +1,10 @@
+{
+    "Test Case 1: Navbar - Should contain logo, search bar, and a button": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Navbar - should check if the logo is vertically centered and has space to its left": "TEST_STATUS_SUCCESS",
+    "Test Case 3: Navbar - should check the search bar inside Navbar should contain the placeholder keyword 'search' inside it": "TEST_STATUS_SUCCESS",
+    "Test Case 4: Navbar - should check if the button has a variant of black background": "TEST_STATUS_SUCCESS",
+    "Test Case 5: Navbar - should check if the button's text color is a variant of green": "TEST_STATUS_SUCCESS",
+    "Test Case 6: Navbar - should check if the button has some border-radius": "TEST_STATUS_SUCCESS",
+    "Test Case 7: Navbar - should check if hovering on the button changes the cursor to a pointer": "TEST_STATUS_SUCCESS",
+    "Test Case 8: Navbar - should check if the button is styled with 'Poppins' font": "TEST_STATUS_SUCCESS"
+}

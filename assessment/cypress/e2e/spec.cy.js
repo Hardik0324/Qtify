@@ -1,7 +1,7 @@
 describe("Qtify Automation", () => {
   beforeEach(() => {
-    cy.visit("https://example.com/");
-    // cy.visit("https://example.com/");
+    cy.visit("https://hardik-qtify-jfqho3r61-hardiks-projects-39e459d8.vercel.app");
+    // cy.visit("https://hardik-qtify-jfqho3r61-hardiks-projects-39e459d8.vercel.app");
   });
   describe("Navbar", () => {
     it("Should contain logo, search bar, and a button", () => {
