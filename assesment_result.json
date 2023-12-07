@@ -6,5 +6,7 @@
     "Test Case 5: Navbar - should check if the button's text color is a variant of green": "TEST_STATUS_SUCCESS",
     "Test Case 6: Navbar - should check if the button has some border-radius": "TEST_STATUS_SUCCESS",
     "Test Case 7: Navbar - should check if hovering on the button changes the cursor to a pointer": "TEST_STATUS_SUCCESS",
-    "Test Case 8: Navbar - should check if the button is styled with 'Poppins' font": "TEST_STATUS_SUCCESS"
+    "Test Case 8: Navbar - should check if the button is styled with 'Poppins' font": "TEST_STATUS_SUCCESS",
+    "Test Case 9: Hero Section Tests - should find the parent element with \"100 Thousand Songs, ad-free\" text (case-insensitive) and an image": "TEST_STATUS_SUCCESS",
+    "Test Case 10: Hero Section Tests - should check the background color of the parent element": "TEST_STATUS_SUCCESS"
 }
