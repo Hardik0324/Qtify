@@ -9,5 +9,7 @@
     "Test Case 8: Navbar - should check if the button is styled with 'Poppins' font": "TEST_STATUS_SUCCESS",
     "Test Case 9: Hero Section Tests - should find the parent element with \"100 Thousand Songs, ad-free\" text (case-insensitive) and an image": "TEST_STATUS_SUCCESS",
     "Test Case 10: Hero Section Tests - should check the background color of the parent element": "TEST_STATUS_SUCCESS",
-    "Test Case 11: Cards Tests - should match the count of top, and new album cards with their respective API responses": "TEST_STATUS_SUCCESS"
+    "Test Case 11: Cards Tests - should match the count of top, and new album cards with their respective API responses": "TEST_STATUS_SUCCESS",
+    "Test Case 12: Albums Section tests - should show cards for Top and New Albums and verify the 'Show All' functionality": "TEST_STATUS_SUCCESS",
+    "Test Case 13: Slider functionality tests - should verify if the first two albums are not visible after clicking the slider's next button 4 times": "TEST_STATUS_SUCCESS"
 }
